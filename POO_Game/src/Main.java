@@ -19,7 +19,7 @@ public class Main {
         nis.avanzar();
 
         System.out.println("Velocidad Máxima: " + nis.getdVelocidadMaxima());
-
+//Editado por Juan Carlos Urrelo
 /*
         Auto auto1 = new Auto();
 
